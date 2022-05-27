@@ -1,4 +1,4 @@
-const counter = require('./counter.js');
+import * as counter from './counter.js';
 
 counter.increase();
 counter.increase();
