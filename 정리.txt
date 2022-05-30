@@ -1,4 +1,4 @@
-##chapter 2
+# Node
 
 node.js를 사용하는 이유
 : 브라우저환경과 컴퓨터환경 두마리 토끼를 잡을 수 있다.
@@ -14,4 +14,5 @@ node 의 특징
 3. non-blocking i/o
 4. event-driven
 
-##
+# Node Modules
+
