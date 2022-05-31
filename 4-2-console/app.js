@@ -1,5 +1,5 @@
 console.log('logging...');
-console.clear();
+console.clear();    // 콘솔창을 다 지워줌
 
 // log level
 console.log('log');      // 개발
@@ -15,7 +15,7 @@ console.assert(2 === 2, 'same!');
 const student = {name:'geonho', age: 22, company : {name: 'unionc'}};
 console.log(student);
 console.table(student);     // 테이블로 보기좋게 출력 됨
-console.dir(student, {showHidden: true, colors: false, depth: 0 });     //옵션을 줄 수 있음
+console.dir(student, {showHidden: true, colors: false, depth: 1 });     //옵션을 줄 수 있음
 
 // measuring time
 console.time('for loop');

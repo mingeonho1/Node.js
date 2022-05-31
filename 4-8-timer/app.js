@@ -7,5 +7,6 @@ const inertval = setInterval(() =>{
 setTimeout(() => {
     console.log("Timeout!");
     clearInterval(inertval);
-}, 6000);
+}, 6000);   
 
+// 6초 뒤에 interval을 멈추게 함
