@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "geonho": "node app"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Geonho",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.4"
+  }
+}
