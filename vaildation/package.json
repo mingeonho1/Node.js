@@ -1,7 +1,7 @@
 {
-  "name": "dwitter",
+  "name": "vaildation",
   "version": "1.0.0",
-  "description": "twitter clon codding",
+  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,12 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.1",
-    "express-async-error": "^0.0.2",
-    "express-validator": "^6.14.2",
-    "helmet": "^5.1.0",
-    "morgan": "^1.10.0"
+    "express-validator": "^6.14.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
